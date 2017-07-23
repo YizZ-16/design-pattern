@@ -4,3 +4,4 @@ bin/*
 .project
 *.iml
 .idea
+out/*
